@@ -4,6 +4,11 @@
 ### Im senior full-stack programmer and active in the cyber security ✔
 ### My favorite programming language is python 👌
 ---
+Fun facts :
+- ☕ Im drink 150 coffee in the year
+- ✔ I have finished 25000 projects so far
+- 😉 My favorite os is linux
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
