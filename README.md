@@ -32,6 +32,12 @@ Fun facts :
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="unix" alt="unix" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" alt="unrealengine" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
