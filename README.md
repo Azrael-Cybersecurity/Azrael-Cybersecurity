@@ -56,6 +56,10 @@ Fun facts :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dark-shark&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" align="center" alt="GIF" />
+
 <!--
 **dark-shark/dark-shark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
