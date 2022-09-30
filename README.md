@@ -48,6 +48,10 @@ Fun facts :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark-shark&show_icons=true&theme=vision-friendly-dark)
 
+---
+
+![](https://komarev.com/ghpvc/?username=dark-shark&color=blue&style=for-the-badge)
+
 <!--
 **dark-shark/dark-shark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
