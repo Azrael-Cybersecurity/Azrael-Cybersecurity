@@ -52,6 +52,10 @@ Fun facts :
 
 ![](https://komarev.com/ghpvc/?username=dark-shark&color=blue&style=for-the-badge)
 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dark-shark&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **dark-shark/dark-shark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
