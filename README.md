@@ -1,13 +1,12 @@
 ### About me : 
 ---
-### Hi im mohammad mehdi baghernejad 👋
+### Hi im Azrael ☠
 ### Im senior full-stack programmer and active in the cyber security ✔
-### My favorite programming language is python 👌
 ---
 Fun facts :
 - ☕ Im drink 150 coffee in the year
 - ✔ I have finished 25000 projects so far
-- 😉 My favorite os is linux
+- My favorite os is linux
 - Im Iranian Programmer
 ---
 ### :hammer_and_wrench: Languages and Tools :
